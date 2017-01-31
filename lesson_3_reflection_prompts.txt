@@ -29,4 +29,6 @@ and what would be harder?
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+    actually i think when we want add some function, maybe will have a big change , and if we just do it on the master ,
+    it maybe will crash the master code. and course it can't run success.
+    so we use a new branch to test it , and check it if it really ok, finally merge it to master.
