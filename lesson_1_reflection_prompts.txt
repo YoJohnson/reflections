@@ -21,8 +21,9 @@ files in one commit, while others, like Google Docs, treat each file separately?
 Because , If users change is very relevance , but we only can saving multiple files , and that will very very bad, because if the code had many relevance code
 and user will need to find any change file.
 
-
 How can you use the commands git log and git diff to view the history of files?
+
+when type the "git log" and then find the u want to compare commit "ID", then use the git diff to compare the two commit!
 
 How might using version control make you more confident to make changes that
 could break something?
