@@ -17,10 +17,16 @@ i think u should have to add some file have logic, and commit they together.
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
 
+i think is maybe u want try something or add something to ur code. and branches is a good features!
+
 How do the diagrams help you visualize the branch structure?
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
+let me easy to know what branch i have!
+
 What are the pros and cons of Git’s automatic merging vs. always doing merges
 manually?
+
+i think if we have a big change we must be use automatic. it can help us very much, but if just a little change , we can do it by ourselves
