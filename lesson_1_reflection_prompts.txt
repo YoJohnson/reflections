@@ -3,6 +3,8 @@ was introduced?
 
 We can use diff and then check the two file to get answer.
 
+we can have a logic to save the commit and then we can efficient to use that.
+
 How could having easy access to the entire history of a file make you a more
 efficient programmer in the long term?
 
