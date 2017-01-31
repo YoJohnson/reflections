@@ -28,5 +28,8 @@ when type the "git log" and then find the u want to compare commit "ID", then us
 How might using version control make you more confident to make changes that
 could break something?
 
+I think if I need change some big change, i will comit and then jsut do it! because I have a comit can return back to the safe time!
+
 Now that you have your workspace set up, what do you want to try using Git for?
 
+I want use git to finished my demo app . 
