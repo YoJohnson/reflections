@@ -3,15 +3,17 @@ was introduced?
 
 We can use diff and then check the two file to get answer.
 
-we can have a logic to save the commit and then we can efficient to use that.
-
 How could having easy access to the entire history of a file make you a more
 efficient programmer in the long term?
+
+we can have a logic to save the commit and then we can efficient to use that.
 
 What do you think are the pros and cons of manually choosing when to create a
 commit, like you do in Git, vs having versions automatically saved, like Google
 docs does?
 
+like the teacher say, if we use the automatically, we will have many many different version , and if we want find some version to check , we will very difficult.
+but the good thing is , if we uncareful no save and close the documentation . we can find it by the automatically.
 
 Why do you think some version control systems, like Git, allow saving multiple
 files in one commit, while others, like Google Docs, treat each file separately?
