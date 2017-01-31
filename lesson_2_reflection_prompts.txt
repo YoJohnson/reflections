@@ -7,8 +7,12 @@ What value do you think it offers?
 
 you can use git diff to see ur change , and then add the change file to the staging area, then commit!
 
+because if we want we have a logic commit , we need to choose what file is we want to commit!
+
 How can you use the staging area to make sure you have one commit per logical
 change?
+
+i think u should have to add some file have logic, and commit they together.
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
